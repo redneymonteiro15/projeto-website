@@ -9,3 +9,5 @@ Tarefas:
 - criar a pagina de contato
 - criar a pagina de login
 - criar a pagina dos produtos
+
+- criar página de utilizadores
