@@ -1,8 +1,19 @@
 Novo ficheiro
 
-Editado no github.com
+1. Editado no github.com
 
-Novo commit.
+2. Novo commit.
+
+3. Nova linha adicionado na branch main e quero enviar essa alteração para a minha nova branches "dev"
+
+4. Solcitar colaboração
+
+5. Git Push.
 
 
-Nova linha adicionado na branch main e quero enviar essa alteração para a minha nova branches "dev"
+NOTAS: Novas Branches, assinaturas.
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+14/08/2026
+Nova Branch @BrunaStefanni =)
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
