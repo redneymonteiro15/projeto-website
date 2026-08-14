@@ -1,0 +1,8 @@
+Novo ficheiro
+
+Editado no github.com
+
+Novo commit.
+
+
+Nova linha adicionado na branch main e quero enviar essa alteração para a minha nova branches "dev"
