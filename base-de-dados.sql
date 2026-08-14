@@ -1,5 +1,4 @@
 CREATE DATABASE projeto;
-
 USE projeto;
 
 CREATE TABLE usuario(
